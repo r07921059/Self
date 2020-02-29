@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+![Imgur](https://i.imgur.com/q6DDpTd.png)
 
-You can use the [editor on GitHub](https://github.com/r07921059/Self/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Who am I
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Shang-Lun Tsai. Currently studying for a master‘s degree at the Universal, Embedded Computing Laboratory and High Performance Computing Laboratory of the Department of Electrical Engineering, National Taiwan University
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### SKILLS & ABILITIES
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- **Deep learning for Computer vision**
+- **Machine learning**
+- **Cloud computing**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/r07921059/Self/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [Linkedln](https://www.linkedin.com/in/shanglun-tsai-8b01031a1/).
